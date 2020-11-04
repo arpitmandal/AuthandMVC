@@ -1,0 +1,127 @@
+INFO  09:29:26 Application started. Press Ctrl+C to shut down.
+INFO  09:29:26 Application started. Press Ctrl+C to shut down.
+INFO  09:29:26 Hosting environment: Development
+INFO  09:29:26 Hosting environment: Development
+INFO  09:29:26 Content root path: C:\Users\himanshu\source\repos\MedicineStock
+INFO  09:29:26 Content root path: C:\Users\himanshu\source\repos\MedicineStock
+INFO  09:29:27 Get Api Initiated
+ERROR 09:30:23 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MedicineStock.Controllers.MedicineStockController.MedicineStockInformation() in C:\Users\himanshu\source\repos\MedicineStock\Controllers\MedicineStockController.cs:line 29
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:30:23 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MedicineStock.Controllers.MedicineStockController.MedicineStockInformation() in C:\Users\himanshu\source\repos\MedicineStock\Controllers\MedicineStockController.cs:line 29
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  09:30:36 Get Api Initiated
+INFO  09:31:54 Application started. Press Ctrl+C to shut down.
+INFO  09:31:54 Application started. Press Ctrl+C to shut down.
+INFO  09:31:54 Hosting environment: Development
+INFO  09:31:54 Hosting environment: Development
+INFO  09:31:54 Content root path: C:\Users\himanshu\source\repos\MedicineStock
+INFO  09:31:54 Content root path: C:\Users\himanshu\source\repos\MedicineStock
+INFO  09:32:34 Get Api Initiated
+INFO  09:34:34 Application started. Press Ctrl+C to shut down.
+INFO  09:34:34 Application started. Press Ctrl+C to shut down.
+INFO  09:34:34 Hosting environment: Development
+INFO  09:34:34 Hosting environment: Development
+INFO  09:34:35 Content root path: C:\Users\himanshu\source\repos\MedicineStock
+INFO  09:34:35 Content root path: C:\Users\himanshu\source\repos\MedicineStock
+INFO  09:35:02 Get Api Initiated
+INFO  09:46:59 Application started. Press Ctrl+C to shut down.
+INFO  09:46:59 Application started. Press Ctrl+C to shut down.
+INFO  09:46:59 Hosting environment: Development
+INFO  09:46:59 Hosting environment: Development
+INFO  09:47:00 Content root path: C:\Users\himanshu\source\repos\MedicineStock
+INFO  09:47:00 Content root path: C:\Users\himanshu\source\repos\MedicineStock
+ERROR 09:47:07 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'MedicineStock.MedicineStockRepository.IMedicineStockRepository' while attempting to activate 'MedicineStock.Controllers.MedicineStockController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:47:07 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'MedicineStock.MedicineStockRepository.IMedicineStockRepository' while attempting to activate 'MedicineStock.Controllers.MedicineStockController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  10:12:42 Application started. Press Ctrl+C to shut down.
+INFO  10:12:42 Application started. Press Ctrl+C to shut down.
+INFO  10:12:43 Hosting environment: Development
+INFO  10:12:43 Hosting environment: Development
+INFO  10:12:43 Content root path: C:\Users\himanshu\source\repos\MedicineStock
+INFO  10:12:43 Content root path: C:\Users\himanshu\source\repos\MedicineStock
+INFO  10:12:44 Get Api Initiated
+INFO  10:13:10 Get Api Initiated
+INFO  10:22:19 Now listening on: http://localhost:5000
+INFO  10:22:19 Now listening on: http://localhost:5000
+INFO  10:22:19 Now listening on: https://localhost:5001
+INFO  10:22:19 Now listening on: https://localhost:5001
+INFO  10:22:19 Application started. Press Ctrl+C to shut down.
+INFO  10:22:19 Application started. Press Ctrl+C to shut down.
+INFO  10:22:19 Hosting environment: Production
+INFO  10:22:19 Hosting environment: Production
+INFO  10:22:19 Content root path: C:\Users\himanshu\source\repos\MedicineStock\bin\Debug\netcoreapp3.1
+INFO  10:22:19 Content root path: C:\Users\himanshu\source\repos\MedicineStock\bin\Debug\netcoreapp3.1
+INFO  10:25:19 Application started. Press Ctrl+C to shut down.
+INFO  10:25:19 Application started. Press Ctrl+C to shut down.
+INFO  10:25:19 Hosting environment: Development
+INFO  10:25:19 Hosting environment: Development
+INFO  10:25:19 Content root path: C:\Users\himanshu\source\repos\MedicineStock
+INFO  10:25:19 Content root path: C:\Users\himanshu\source\repos\MedicineStock
+INFO  10:25:20 Get Api Initiated
